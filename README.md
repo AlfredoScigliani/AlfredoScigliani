@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfredo Scigliani</h1>
 <h3 align="center">Passionate about MATLAB and Python-based computational modeling for scientific research.</h3>
-
-<p align="left">Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts/blob/main/README.md" target="_blank">HERE</a> for my MATLAB Scripts Portfolio.</p>
+<h3 align="left"> Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts/blob/main/README.md" target="_blank">HERE</a> for my MATLAB Portfolio:</h3>
 
 - 🧪 Ph.D. candidate in Chemical Engineering graduating in May 2025
 - 🔭 I’m currently working as a Graduate Research Assistant at Florida State University in the field of **Complex Fluid Rheology**

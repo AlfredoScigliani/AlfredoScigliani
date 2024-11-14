@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">MATLAB Scripts Portfolio:</h3>
-<p align="left">Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts" target="_blank">HERE</a> to access my MATLAB Portfolio.</p>
+<p align="left">Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts/tree/main/All%20Codes" target="_blank">HERE</a> to access my MATLAB Portfolio.</p>
 
 <h3 align="left">Repository Description:</h3>
 <p align="left">The codes in this repository focus on a variety of scientific applications in the field of chemical engineering. These include:</p>

@@ -5,7 +5,7 @@
 - 🔭 I’m currently working as a Graduate Research Assistant at Florida State University in the field of **Complex Fluid Rheology**
 - 🌱 My research focuses on **Origins of Shear Banding in Wormlike Micelles**
 
-- 📄 Get to know about my experiences [https://www.linkedin.com/in/alfredo-scigliani](https://www.linkedin.com/in/alfredo-scigliani)
+- 📄 Get to know about my experiences [here](https://www.linkedin.com/in/alfredo-scigliani)
 
 - 📫 How to reach me **aes15r@fsu.edu**
 
@@ -13,3 +13,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">MATLAB Scripts Portfolio:</h3>
+<p align="left">You can find my full portfolio of MATLAB scripts and projects [here](https://github.com/AlfredoScigliani/MATLAB-Scripts).</p>

@@ -3,7 +3,7 @@
 <h3 align="left"> Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts/blob/main/README.md" target="_blank">HERE</a> for my MATLAB Portfolio:</h3>
 
 - 🧪 Ph.D. candidate in Chemical Engineering graduating in May 2025
-- 🔭 I’m currently working as a Graduate Research Assistant at Florida State University in the field of **Complex Fluid Rheology**
+- 🔭 Currently working as a Graduate Research Assistant at Florida State University in the field of **Complex Fluid Rheology**
 - 🌱 My research focuses on **Origins of Shear Banding in Wormlike Micelles**
 
 - 📄 Get to know about my experiences [here](https://www.linkedin.com/in/alfredo-scigliani)

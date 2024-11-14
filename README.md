@@ -6,7 +6,7 @@
 - 🔭 Currently working as a Graduate Research Assistant at Florida State University in the field of **Complex Fluid Rheology**
 - 🌱 My research focuses on **Origins of Shear Banding in Wormlike Micelles**
 
-- 📄 Get to know about my experiences [here](https://www.linkedin.com/in/alfredo-scigliani)
+- 📄 Get to know about my experiences [HERE](https://www.linkedin.com/in/alfredo-scigliani)
 
 - 📫 How to reach me **aes15r@fsu.edu**
 

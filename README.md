@@ -16,3 +16,17 @@
 
 <h3 align="left">MATLAB Scripts Portfolio:</h3>
 <p align="left">You can find my full portfolio of MATLAB scripts and projects [here](https://github.com/AlfredoScigliani/MATLAB-Scripts).</p>
+
+<h3 align="left">Repository Structure:</h3>
+<p align="left">Here’s the structure of my repository:</p>
+<pre>
+MATLAB-Scripts/
+├── All Codes/
+│   ├── script1.m
+│   ├── script2.m
+│   ├── script3.m
+│   └── ...
+└── README.md
+</pre>
+
+<p align="left">You can explore the code in more detail [here](https://github.com/AlfredoScigliani/MATLAB-Scripts/tree/main/All%20Codes).</p>

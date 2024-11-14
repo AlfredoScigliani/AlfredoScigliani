@@ -17,16 +17,13 @@
 <h3 align="left">MATLAB Scripts Portfolio:</h3>
 <p align="left">You can find my full portfolio of MATLAB scripts and projects [here](https://github.com/AlfredoScigliani/MATLAB-Scripts).</p>
 
-<h3 align="left">Repository Structure:</h3>
-<p align="left">Here’s the structure of my repository:</p>
-<pre>
-MATLAB-Scripts/
-├── All Codes/
-│   ├── script1.m
-│   ├── script2.m
-│   ├── script3.m
-│   └── ...
-└── README.md
-</pre>
+<h3 align="left">Repository Description:</h3>
+<p align="left">The codes in this repository focus on a variety of scientific applications in the field of chemical engineering. These include:</p>
+<ul>
+  <li><strong>Diffusion and Velocity Measurements using NMR:</strong> Analyzing diffusion and velocity data from NMR experiments to understand molecular behavior in complex fluids.</li>
+  <li><strong>Fluid Characterization and Data Fitting:</strong> Processing and analyzing data from rheometer experiments to characterize fluid properties and fit models to experimental data.</li>
+  <li><strong>Data Management and Analysis:</strong> Organizing, managing, and analyzing experimental data for efficient interpretation and reporting.</li>
+  <li><strong>Particle Tracking Velocimetry (PTV):</strong> Analyzing velocity planes and secondary flow patterns to characterize fluid instabilities and generate 2D heatmaps for visual representation.</li>
+</ul>
 
-<p align="left">You can explore the code in more detail [here](https://github.com/AlfredoScigliani/MATLAB-Scripts/tree/main/All%20Codes).</p>
+<p align="left">Feel free to explore and replicate the analyses by accessing the scripts in this repository.</p>

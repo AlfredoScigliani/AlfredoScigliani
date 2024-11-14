@@ -9,13 +9,11 @@
 
 - 📫 How to reach me **aes15r@fsu.edu**
 
-- ⚡ Fun fact: **In addition to my Ph.D. in Engineering, I aspire to become an Olympic flag football athlete representing my home country.**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">MATLAB Scripts Portfolio:</h3>
-<p align="left">You can find my full portfolio of MATLAB scripts and projects <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts" target="_blank">here</a>.</p>
+<p align="left">Click <a href="https://github.com/AlfredoScigliani/MATLAB-Scripts" target="_blank">HERE</a> to access my MATLAB Portfolio.</p>
 
 <h3 align="left">Repository Description:</h3>
 <p align="left">The codes in this repository focus on a variety of scientific applications in the field of chemical engineering. These include:</p>
